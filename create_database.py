@@ -50,7 +50,9 @@ leads to a new path, ultimately determining Elara's fate.
 Here are some rules to follow:
 1. Start by asking the player to choose some kind of weapons that will be used later in the game
 2. Have a few paths that lead to success
-3. Have some paths that lead to death. If the user dies generate a response that explains the death and ends in the text: "The End.", I will search for this text to end the game
+3. There needs to be at least 10 decisions before the stone is reached.
+4. Use very descriptive language in your replies.
+5. Have some paths that lead to death. If the user dies generate a response that explains the death and ends in the text: "The End.", I will search for this text to end the game
 
 Here is the chat history, use this to understand what to say next: {chat_history}
 Human: {human_input}
